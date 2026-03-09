@@ -1,0 +1,44 @@
+GESTÃO DE COMPANHIA  AÉRIA
+
+
+Uma companhia aérea deseja controlar informações sobre seus vôos e clientes.
+
+
+2. Objectivo:
+
+Criar um sistema para uma pequena companhia aérea que deseja registrar informações
+sobre seus vôos e clientes.
+
+
+3. Características:
+
+Especificamente o programa deverá ser capaz de:
+
+Cadastrar vôos: para cada vôo deverá armazenar o nome, o número do registro
+e a data de validade do registro do piloto que realizou o vôo, o número do vôo, a
+hora de partida e de chegada do vôo, o local de partida e de destino do vôo, o
+nome, número do documento de identidade, telefone e endereço dos clientes que
+estavam presentes, o número da cadeira em que estavam sentados e a quantidade 
+de bagagens que cada cliente despachou.
+
+> Cadastrar Clientes(passageiros): nome, número do documento
+de identidade(Bilhete), telefone e endereço.
+
+> Cadastrar piloto: código, nome, data de nascimento, endereço;
+
+Obs: um mesmo piloto pode fazer diferentes vôos e um mesmo cliente pode voar 
+diversas vezes.
+
+Relatório:
+
+
+> Imprimir: Todos vôos, disponíveis e lotados.
+
+> Imprimir: Todos clientes(passageiros) cadastrados.
+
+> Localizar passageiro(cliente) por nome ou número do documento: mostrar
+todos reverentes à clientes.
+
+> Localizar o vôo por número do registro: digite o número ou o código do vôo,
+se o valor corresponder, o programa deverá imprimir o vôo(todos dados) e o
+estado(lotado ou disponível) e o número de passageiros que marcaram.
